@@ -4,7 +4,7 @@
 ## Download music for free from youtube links.
 
 ### Description
-This script downloads the audio from a YouTube video and saves it as an MP3 file. It is useful for extracting audio from YouTube videos for offline listening.
+This script downloads the music/audio from a YouTube video and saves it as an MP3 file. It is useful for extracting music from YouTube videos for offline listening.
 
 ### Requirements
 - Python 3.6 or higher
