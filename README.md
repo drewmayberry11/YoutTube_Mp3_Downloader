@@ -14,7 +14,7 @@ This script downloads the audio from a YouTube video and saves it as an MP3 file
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/youtube_mp3_downloader.git
+   git clone https://github.com/drewmayberry11/YoutTube_Mp3_Downloader.git
    cd youtube_mp3_downloader
    ```
 
